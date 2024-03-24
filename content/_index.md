@@ -7,7 +7,7 @@ header_button_cta:
 header_button_more:
   url: "#the-ceremony"
   title: "Details"
-teaser_image: "images/5EBD0B92-EE8A-40BC-9153-7076A5C32A5B.JPG" # https://www.pexels.com/search/product%20testing/
+teaser_image: "images/5EBD0B92-EE8A-40BC-9153-7076A5C32A5B.JPG"
 ---
 
 # The Ceremony
@@ -52,6 +52,3 @@ If you have any questions, please feel free to reach out to us.
 
 E-mail: paigemhibbert@gmail.com
 Phone: 229-513-8710
-
-
-<!-- {{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}} -->

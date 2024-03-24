@@ -3,6 +3,8 @@ languageCode: en-us
 title: Caylor Wedding
 
 theme: "hugo-product-launch"
+defaultContentLanguage: "en"
+
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds: ["section", "taxonomy", "term", "RSS", "robotsTXT", "404"]
@@ -16,9 +18,6 @@ params:
   copyright: "© 2024 Caylor Wedding"
   description: "The wedding of Jason and Paige"
   favicon: "/images/favicon.png"
-  images:
-    - src: "/images/hero.jpg"
-      alt: "Jason and Paige"
   title: "Jason and Paige's Wedding"
   hidedesignbyline: true
   # meta:
